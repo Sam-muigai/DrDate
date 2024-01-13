@@ -106,14 +106,14 @@ fun OtpScreenContent(
             }
             Spacer(modifier = Modifier.height(48.dp))
             Text(
-                text = "Forgot Password?",
+                text = "OTP Verification",
                 style = MaterialTheme.typography.headlineMedium.copy(
                     fontWeight = FontWeight.Bold,
                 ),
             )
 
             Text(
-                text = "Don't worry! It occurs. Please enter the email address linked with your account.",
+                text = "Enter the verification code we just sent on your email address.",
                 style = MaterialTheme.typography.titleMedium.copy(
                     fontWeight = FontWeight(500),
                     color = MaterialTheme.colorScheme.onBackground.copy(
