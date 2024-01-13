@@ -4,6 +4,6 @@ This a simple app implementing ui from [this](https://www.figma.com/community/fi
 
 <img src="screenshots/login.jpeg" width="250"/> <img src="screenshots/sign_up.jpeg" width="250"/>
 
-<img src="screenshots/otp.jpeg" width="250"/> <img src="screenshots/forgot_password.jpeg" width="250"/>
+<img src="screenshots/otp_screen.jpeg" width="250"/> <img src="screenshots/forgot_password.jpeg" width="250"/>
 
 <img src="screenshots/change_password.jpeg" width="250"/>
